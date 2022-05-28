@@ -1,0 +1,348 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+
+}
+
+body
+{
+    background: black;
+    
+}
+
+*.img1
+{   
+    margin-left: 5px;
+    width: 80px;
+    height: 80px;
+    border-radius: 10%;
+}
+
+.img2
+{   margin-left: 15px;
+    margin-top: 10px;
+    width: 60px;
+    height: 40px;
+}
+
+.img3
+{
+    margin-left: 3px;
+    margin-top: 100px;
+}
+
+
+.sv
+{
+    margin-top: 20px;
+
+}
+.q
+{
+  background-color: rgb(231, 229, 229);
+  border-radius: 5%;
+}
+
+.b1
+{   
+    border-radius: 15px;
+    background-color: #008CBA;
+    height: 40px;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.tex1
+{
+    
+    
+    color: aliceblue;
+}
+
+img
+{
+width: 80px;
+height: 80px;
+}
+
+.navbar
+{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 800px;
+    background: #fff;
+    width: 90px;
+    overflow: hidden;
+
+  
+}
+
+div.a
+{
+    height: 50px;
+    width: 50px;
+}
+
+
+  /* Create three equal columns that floats next to each other */
+  .column1 {
+    float: left;
+    width: 25%;
+    background-color:rgb(204, 243, 250);
+    
+    padding: 10px;
+    height: 800px;
+    /* Should be removed. Only for demonstration */
+  }
+
+  .column2 {
+    float:left;
+    width: 50%;
+    
+    background:url(asset/kk.jpg);
+    border-color: black;
+    
+    padding: 10px;
+    height: 800px; /* Should be removed. Only for demonstration */
+  }
+
+  .column3 {
+    float: left;
+    width: 25%;
+    height: 100%;
+    background-color:rgb(204, 243, 250);
+    padding: 10px;
+    
+    height: 800px; /* Should be removed. Only for demonstration */
+  }
+  
+  
+  .row
+  {
+      margin-left: 90px;
+      border-radius: 10%;
+      
+  }
+.pic
+{
+ border-radius: 50%;
+ height: 80px;
+ width: 80px;
+ margin-left: 30px;
+}
+
+.hi
+{
+    text-align: center;
+    margin-top: -70px;
+    margin-left: 60px;
+    
+    
+}
+
+.wel
+{
+    text-align: center;
+    margin-left: 50px;
+   
+}
+
+
+
+.j
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: 50px;
+}
+
+.k
+{ 
+    margin-left: 20px;
+    text-align:left;
+    margin-top: 30px;
+}
+
+.l
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: 30px;
+}
+
+.m
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: 30px;
+}
+
+.n
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: 20px;
+}
+
+.o
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: -120px;
+}
+
+.p
+{
+    margin-left: 20px;
+    text-align:left;
+    margin-top: -120px;
+}
+*.p6{
+      font-size: medium;
+}
+
+*.p7
+{
+    font-size: medium;
+}
+
+.column4 {
+  float: left;
+  width: 33.33%;
+  
+}
+
+.column5 {
+    float: left;
+    width: 33.33%;
+   
+
+  }
+
+  .column6 {
+    float: left;
+    width: 33.33%;
+    border-color: aqua;
+  }
+
+  .row2
+  {
+      margin-left: 40px;
+      height: 60px;
+      width: 90%;
+      margin-top: 30px;
+  }
+
+  .ri
+  {
+      margin-left: 10px;
+      margin-top: 15px;
+  }
+.ch
+{
+    height: 200px;
+    width: 610px;
+    background-color: azure;
+    border: #008CBA;
+    border-style: dashed;
+}
+
+
+.ct
+{
+    margin-top: 40px;
+}
+
+.rs
+{
+    margin-top: -50px;
+}
+
+.ec
+{
+    margin-top: 30px;
+}
+
+.ra
+{
+    margin-top: 10px;
+}
+
+.ee
+{
+    margin-top: -120px;
+
+}
+
+.b2
+{   
+    border-radius: 15px;
+    background-color: #008CBA;
+    height: 40px;
+    width: 100px;
+    margin-left: 80px;
+    margin-top: 20px;
+   color: white;
+
+}
+
+.p1 
+{
+    margin-left:13em;
+    margin-top:-35px;
+}
+
+.p2
+{
+    margin-left:13em;
+    margin-top:-20px;
+}
+
+.b3
+{   
+   
+    color: blue;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.ar
+{
+    margin-top: 20px;
+}
+
+.b4
+{   
+   margin-left: 40px;
+    color: blue;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.yc
+{
+    font-size: small;
+    font-weight: 400;
+}
+
+.p3
+{
+    font-size:large;
+    font-weight: 800;
+    color: blue;
+}
+
+@media (max-width:553px)
+{
+    .img2
+    {
+        float: right;
+    }
+}
